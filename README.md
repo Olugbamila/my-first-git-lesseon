@@ -1,17 +1,17 @@
-# my-first-git-lesseon
+# My-first-Git-lesseon
 I'm pushing code from my local environment to GitHub
-## configure gitbash  
+## Configure gitbash  
 - git config --global user.name 'christo"
 - git config --global user.email "gbenlebuc@gmail.com'
-## work with the configured environment  
+## Work with the configured environment  
 - mkdrr website2
 - cd website2
 - git init
 - touch index.html
-## clone your github repo  
+## Clone your github repo  
 - git remote origin <url>
   this should be the url from your created repo-use https
-## push to GitHub  
+## Push to GitHub  
 - git add index.html
 - git status
 - git commit -m "my first index.html"
