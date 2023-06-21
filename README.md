@@ -9,7 +9,7 @@ I'm pushing code from my local environment to GitHub
 - git init
 - touch index.html
 ## Clone your GitHub repo  
-- git remote origin <url>
+- git remote add origin <url>
   this should be the url from your created repo-use https
 ## Push to GitHub  
 - git add index.html
