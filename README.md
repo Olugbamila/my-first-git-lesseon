@@ -1,6 +1,6 @@
 # My-first-Git-lesseon
 I'm pushing code from my local environment to GitHub
-## Configure gitbash  
+## Configure GitBash  
 - git config --global user.name 'christo"
 - git config --global user.email "gbenlebuc@gmail.com'
 ## Work with the configured environment  
@@ -8,7 +8,7 @@ I'm pushing code from my local environment to GitHub
 - cd website2
 - git init
 - touch index.html
-## Clone your github repo  
+## Clone your GitHub repo  
 - git remote origin <url>
   this should be the url from your created repo-use https
 ## Push to GitHub  
